@@ -1,8 +1,8 @@
-# DO-Product-Card
+# bz-Product-Card
 
 Este es un paquete de pruebas de despliegue en NPM
 
-### Fernando Herrera
+### Brahian Stiven Zapata
 
 ## Ejemplo
 ```
